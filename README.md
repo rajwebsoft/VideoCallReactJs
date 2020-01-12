@@ -1,4 +1,4 @@
-# NodeJS_ReactJS_Videocall
+# NodeJS ReactJS Videocall
 NodeJS React Video Calling. 
 
 This application demonstrates how to create an app that allows users to make real-time video calls to friends without registering to use the app.  
